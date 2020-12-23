@@ -1,0 +1,17 @@
+#formulario {
+    width: 50vmin;
+    height: 50vmin;
+    display: flex;
+    
+    align-items: center;
+    justify-content: center;
+
+    margin: 25px auto;
+    padding: 15px;
+
+    border: 1px solid #000;
+    border-radius: 8px;
+
+    background: #fff;
+
+}
